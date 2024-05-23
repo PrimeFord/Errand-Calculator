@@ -1,4 +1,4 @@
-# Wild Life Player
+# Errand Calculator
 
 Errand Calculator: This project is a brief test on a web calculator that uses logic to evaluate all possible basic numeric calculations.
 
