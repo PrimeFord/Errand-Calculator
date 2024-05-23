@@ -66,9 +66,8 @@
   grid-column: 1/3;
 }
 #root #wrapper #buttons #equals {
-  /* grid-row: 4/6; */
   background: #7676ff;
-} /*# sourceMappingURL=style.css.map */
+}
 @media (max-width: 720px) {
   #root {
     padding: 0;
