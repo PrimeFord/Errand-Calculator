@@ -12,7 +12,7 @@ Clone or download this repository and run with a local server of open `localhost
 
 ## Features
 
-- Index Page
+- Index Page (Hero Calculator)....
 
 ## Tech/framework used
 
