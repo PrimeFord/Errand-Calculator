@@ -24,7 +24,7 @@ Clone or download this repository and run with a local server of open `localhost
 - TypeScript
 
 ## Package Manager
-- NPM
+- NPM (Node Package Mannager)
 
 
 ## Preview
