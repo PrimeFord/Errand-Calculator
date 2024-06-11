@@ -18,6 +18,7 @@ Clone or download this repository and run with a local server of open `localhost
 
 - HTML
 - CSS
+- JavaScript
 - ReactJS
 - Vite
 - TypeScript
